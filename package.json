@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table2",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "private": true,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BonnierNews/react-bootstrap-table2.git"
+    "url": "git+https://github.com/maxwellonjoro/react-bootstrap-table2.git"
   },
   "author": "AllenFang",
   "contributors": [
@@ -36,12 +36,12 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BonnierNews/react-bootstrap-table2/issues"
+    "url": "https://github.com/maxwellonjoro/react-bootstrap-table2/issues"
   },
   "engines": {
     "node": ">=16.5"
   },
-  "homepage": "https://github.com/BonnierNews/react-bootstrap-table2#readme",
+  "homepage": "https://github.com/maxwellonjoro/react-bootstrap-table2#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
