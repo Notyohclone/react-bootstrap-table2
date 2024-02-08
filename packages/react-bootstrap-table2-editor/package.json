@@ -46,5 +46,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@notyohclone"
-  }
+  },
+  "gitHead": "9f893ffd7d81b74d2217a2431f7f6d7ab1f2808c"
 }
