@@ -1,6 +1,6 @@
 ## BN fork
 
-![Build Status](https://github.com/maxwellonjoro/react-bootstrap-table2/actions/workflows/node.js.yml/badge.svg)
+![Build Status](https://github.com/notyohclone/react-bootstrap-table2/actions/workflows/node.js.yml/badge.svg)
 
 This is a fork of Allen Fangs [react-bootstrap-table2](https://github.com/react-bootstrap-table/react-bootstrap-table2) repo, which is the repo for [react-bootstrap-table-next](https://www.npmjs.com/package/react-bootstrap-table-next) on npm.
 
@@ -9,19 +9,19 @@ That repo seems to have been abandoned, so this fork was created simply to keep 
 Specific packages from this repo can be used via [gitpkg.now.sh](https://gitpkg.now.sh/):
 e.g (packages from tag v1.0.0 in this repo):
 
-`yarn add https://gitpkg.now.sh/maxwellonjoro/react-bootstrap-table2/packages/react-bootstrap-table2?v1.0.0`
+`yarn add https://gitpkg.now.sh/notyohclone/react-bootstrap-table2/packages/react-bootstrap-table2?v1.0.0`
 
-`yarn add https://gitpkg.now.sh/maxwellonjoro/react-bootstrap-table2/packages/react-bootstrap-table2-editor?v1.0.0`
+`yarn add https://gitpkg.now.sh/notyohclone/react-bootstrap-table2/packages/react-bootstrap-table2-editor?v1.0.0`
 
-`yarn add https://gitpkg.now.sh/maxwellonjoro/react-bootstrap-table2/packages/react-bootstrap-table2-filter?v1.0.0`
+`yarn add https://gitpkg.now.sh/notyohclone/react-bootstrap-table2/packages/react-bootstrap-table2-filter?v1.0.0`
 
 
 Or by adding directly to package.json. 
 e.g (packages from tag v1.0.0 in this repo)
 ```
-    "react-bootstrap-table-next": "https://gitpkg.now.sh/maxwellonjoro/react-bootstrap-table2/packages/react-bootstrap-table2?v1.0.0",
-    "react-bootstrap-table2-editor": "https://gitpkg.now.sh/maxwellonjoro/react-bootstrap-table2/packages/react-bootstrap-table2-editor?v1.0.0",
-    "react-bootstrap-table2-filter": "https://gitpkg.now.sh/maxwellonjoro/react-bootstrap-table2/packages/react-bootstrap-table2-filter?v1.0.0",
+    "react-bootstrap-table-next": "https://gitpkg.now.sh/notyohclone/react-bootstrap-table2/packages/react-bootstrap-table2?v1.0.0",
+    "react-bootstrap-table2-editor": "https://gitpkg.now.sh/notyohclone/react-bootstrap-table2/packages/react-bootstrap-table2-editor?v1.0.0",
+    "react-bootstrap-table2-filter": "https://gitpkg.now.sh/notyohclone/react-bootstrap-table2/packages/react-bootstrap-table2-filter?v1.0.0",
 ```
 
 # release new version of BN Fork

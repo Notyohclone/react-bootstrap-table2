@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxwellonjoro/react-bootstrap-table2.git"
+    "url": "git+https://github.com/notyohclone/react-bootstrap-table2.git"
   },
   "keywords": [
     "react",
@@ -47,5 +47,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@notyohclone"
   },
-  "gitHead": "9f893ffd7d81b74d2217a2431f7f6d7ab1f2808c"
+  "gitHead": "d2b872cde4098733cc864836bbdbdd0d93b2a128"
 }
